@@ -1,7 +1,7 @@
 ### Personal Information
 #### Name: Lou Liangshan
 #### Sex: Male
-#### Age: 29
+#### Age: 28
 #### Education: 
 ##### Bachelor of Degree, Xi'an Jiaotong University
 ##### Master of Degree, Renmin University of China
