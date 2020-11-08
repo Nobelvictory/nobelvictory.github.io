@@ -10,7 +10,7 @@
 
 ### Latest news
 
-### Research Area
+### Research Area: Computer Vision, Machine Learning, Artificial Intelligence
 
 ### Honors and Awards
 
